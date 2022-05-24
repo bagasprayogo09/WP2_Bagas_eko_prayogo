@@ -1,49 +1,31 @@
-Penambahan 
-
+Tugas Pertemuan 9 - 12
 
 HASIL OUTPUT :
 
-Output-Dari-Contoh5-Form-Input-Data-Mata-Kuliah.png
+Output_Halaman_Login
 
-Output-Dari-HalamanAbout-RentakBuku.png
+Output_Daftar_Menjadi_Member
 
-Output-Dari-HalamanDepan-RentalBuku.png
- 
- outuput dari validasi cetak
- ouput dari form validasi
- Output-Isi-Pustaka-Buku.png
+Output_Ubah_Profile
 
-Output_database_Pustaka-Role.png
+Output_Kategori_Buku
 
-Output_database_Pustaka_User.png
+Output_Data_Buku
 
-Output_database_Pustaka_Kategori.png
-
-output_database_pustaka_buku
-
-ouput_form_data_siswa.JPG
-
-ouput_forn_validation_data_siswa
-
-ouput_halaman_login.jpg
-
-ouput_halaman_registrasi
-
-ouput_halaman
+Output_Data_Anggota
 
 File Yang Ditambahkan Sebagai Berikut :
 
-pustaka-booking/Application/Controller = Matakuliah.php, Web.php,
+pustaka-booking/Application/Controller = Admin.php, Autentifikasi.php, Buku.php, User.php
 
-pustaka-booking/Application/Views = matakuliah.php, v_about.php, v_footer.php, v_header.php, v_index.php, view-form-matakuliah.php
+pustaka-booking/Application/helpers = pustaka_helper.php
 
-pustaka-booking/assets/css = stylebuku.css
+pustaka-booking/Application/Views/admin = index.php, login.php
 
-pustaka-booking/Application/config = autoload.php, database.php
+pustaka-booking/Application/Views/autentifikasi = blok.php, gagal.php, login.php, registrasi.php
 
-pustaka-booking/Application/Models = ModelUser.php, ModelBuku.php
+pustaka-booking/Application/Views/buku = index.php, kategori.php
 
-pustaka-booking/Aplication/Controller = formsiswa.php
+pustaka-booking/Application/Views/templates = aute_footer.php, aute_header.php, footer.php, header.php, sidebar.php, topbar.php
 
-pustaka-booking/Aplication/Views/ =view-data-siswa.php
-view-form-siswa.php
+pustaka-booking/Application/View/user = index.php, ubah_profile.php
