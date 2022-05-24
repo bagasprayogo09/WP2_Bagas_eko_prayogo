@@ -27,6 +27,10 @@ ouput_forn_validation_data_siswa
 
 ouput_halaman_login.jpg
 
+ouput_halaman_registrasi
+
+ouput_halaman
+
 File Yang Ditambahkan Sebagai Berikut :
 
 pustaka-booking/Application/Controller = Matakuliah.php, Web.php,
